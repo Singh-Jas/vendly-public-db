@@ -1,0 +1,28 @@
+Licence for the Vendly food database and the files in this repository
+======================================================================
+
+1. The database (the catalog.sqlite release assets) is made available under the Open
+   Database License (ODbL) 1.0. The full text is in LICENSE-ODbL-1.0.txt and at
+   https://opendatacommons.org/licenses/odbl/1-0/
+
+2. The database is derived from, and contains data from:
+   - Open Food Facts: "(c) Open Food Facts contributors". The database is under ODbL 1.0;
+     individual contents are under the Database Contents License (DbCL) 1.0
+     (https://opendatacommons.org/licenses/dbcl/1-0/). Product photos are not part of this
+     database.
+   - USDA FoodData Central (Foundation Foods, SR Legacy, FNDDS, Branded Foods): public
+     domain / CC0 1.0 per the USDA's data statement. Credit is given as a courtesy, not as
+     a licence condition.
+   See NOTICE.md for the full attribution.
+
+3. The documentation and scripts in this repository (README.md, METHOD.md, verify.sh and the
+   other text files, everything except the database, the third-party data and the licence
+   texts) are under the MIT licence, see LICENSE-MIT.
+
+4. Share-alike: if you publicly use an adapted version of this database, or works produced
+   from it that are not Produced Works, you must offer the adapted database under the ODbL
+   (see the ODbL text). This repository makes no further legal claim on that point.
+
+No warranty. Nutrition data is informational and not medical advice.
+
+Contact: singhstudioapp@gmail.com
